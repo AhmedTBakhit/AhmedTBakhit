@@ -1,4 +1,9 @@
-### Hi there 👋
+#  Hi there, I am Ahmed Bakhit - Functional Safety Engineer at Kenworth 
+## A recent Masters of Science Graduate in Mechanical Engineering from Washington State University (2022)
+* A Data Science and Machine Learning Enthusiastic
+* Expercienced in Robotics&Mechatronics 
+* Currently developing vehicle controls and systems per ISO 26262
+
 
 <!--
 **AhmedTBakhit/AhmedTBakhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
