@@ -1,8 +1,8 @@
-#  Hi there, I am Ahmed Bakhit - Functional Safety Engineer at Kenworth 
+#  Hi there, I am Ahmed Bakhit - Airplane Safety Engineer at Boeing 
 ## A recent Masters of Science Graduate in Mechanical Engineering from Washington State University (2022)
 * A Data Science and Machine Learning Enthusiastic
 * Expercienced in Robotics&Mechatronics 
-* Currently developing vehicle controls and systems per ISO 26262
+* Currently working on development of Airplanes per ARP 4761 AND ARP 4754
 
 
 <!--
